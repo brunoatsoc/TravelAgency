@@ -7,7 +7,7 @@ Desenvolvido por:
 - Valcírico Francisco de Souza Vanderlei Silva Terceiro
 - Edinaldo De Oliveira Junior
 
-Este projeto simula a compra de pacotes de viagem em uma agência de viagens. Utilizamos a linguagem C# e o framework .NET para o desenvolvimento.
+Este projeto simula a compra de pacotes de viagem em uma agência de viagens. Utilizamos a linguagem C#, o framework .NET e o banco de dados SQLite para o desenvolvimento.
 
 ## Pré-requisitos
 
