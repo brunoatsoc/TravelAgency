@@ -5,6 +5,7 @@ Desenvolvido por:
 - Bruno Santos Costa
 - Breno Gonçalves Piropo
 - Valcírico Francisco de Souza Vanderlei Silva Terceiro
+- Edinaldo De Oliveira Junior
 
 Este projeto simula a compra de pacotes de viagem em uma agência de viagens. Utilizamos a linguagem C# e o framework .NET para o desenvolvimento.
 
